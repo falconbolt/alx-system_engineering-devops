@@ -55,4 +55,4 @@ Host *
 
 Host 35.196.185.161
     User ubuntu
-    IdentityFile ~/.ssh/holberton
+    IdentityFile ~/.ssh/school
