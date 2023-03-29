@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# This script uses pgrep to get PID of all bash process
-pgrep -l "bash"
